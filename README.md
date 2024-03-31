@@ -17,4 +17,10 @@
 &nbsp;  &nbsp; :one: 將api key放在txt檔，並讀取  
 &nbsp;  &nbsp; :two: 導入text 2 voice  
 &nbsp;  &nbsp; :three: 導入 voice 2 text  
- 
+
+### w7
+#### huggingface_app [:link:](https://github.com/tytttyyyttyy/net_learning/blob/main/huggingface_app.ipynb) 
+:arrow_right: 練習使用huggingface pipeline
+&nbsp;  &nbsp; :one: 利用pipeline將圖片轉為文字(image-to-text)
+&nbsp;  &nbsp; :two: 將文字進行情緒分析(sentiment-analysis)
+&nbsp;  &nbsp; :three: 將文字進行總結(summarization)
