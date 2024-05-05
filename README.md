@@ -26,6 +26,6 @@
 &nbsp;  &nbsp; :three: 將文字進行總結(summarization)
 
 
-#### 自動證明產生器 [:link:](https://youtu.be/A0QuoeLGyqA)
+#### 自動證明產生器yt影片 [:link:](https://youtu.be/A0QuoeLGyqA)
 原使用google sheet+apps scripts製作自動證明產生小工具。
 改建到google colab上，讀取員工data base篩選出特定員工，產生出證明，同時將記錄留存，結合大語言模型，利用RAG的方式來告知離職的資訊
