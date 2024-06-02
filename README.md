@@ -31,3 +31,5 @@
 改建到google colab上，讀取員工data base篩選出特定員工，產生出證明，同時將記錄留存，結合大語言模型，利用RAG的方式來告知離職的資訊
 
 
+#### 自動證明產生器 [:link:](https://github.com/tytttyyyttyy/net_learning/blob/main/auto_cer.ipynb)
+影片介紹連結 [:link:](https://youtu.be/0kPk0B_W9gs)
